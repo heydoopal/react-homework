@@ -25,11 +25,14 @@
 
   - 피그마에 대한 이해도가 매우 부족한 상태입니다. 😞 기존 피그마 시안에 있던 버튼 컴포넌트를 그대로 가져다 쓰려다, 연습 삼아 직접 컴포넌트를 만들어보며 피그마와 최대한 익숙해져보려 노력했습니다..😶
   - properties 구분:
-    - 스타일 outlined / filled
-    - 사이즈 large / small
-      ![](https://velog.velcdn.com/images/zidoopal/post/52207429-4cb3-4069-8bfa-5be851c212c6/image.png)
+    - 스타일 outlined / filled<br>
+    - 사이즈 large / small<br>
+      ![](https://velog.velcdn.com/images/zidoopal/post/52207429-4cb3-4069-8bfa-5be851c212c6/image.png)<br>
 
-- **장바구니 모달 컴포넌트** 에 '버튼 컴포넌트' 추가(import)하기
+- **장바구니 모달 컴포넌트** 에 '버튼 컴포넌트' 추가(import)하기 <br>
+![image](https://github.com/user-attachments/assets/4b6cb410-6a55-49f3-b299-64c995adf588)<br>
+(시간 관계상 여백 등의 조정은 뒤로하고 업로드하였습니다 )
+
 
 ### 회고
 
