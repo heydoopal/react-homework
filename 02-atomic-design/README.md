@@ -15,8 +15,8 @@
 <br>
 
 ### 수행 과정 기록
-
-[💡 피그마 시안 링크](https://www.figma.com/design/Vx9F8hszxUxcexVN0NTHNJ/%EC%95%84%ED%86%A0%EB%AF%B9-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EA%B3%BC%EC%A0%9C_%EC%A7%80%EC%9C%A0%EC%A7%84?node-id=0-1&t=kFQzrQChZkk0340v-1)
+- [🎉 과제 배포 페이지](https://react-homework-pink.vercel.app/)
+- [💡 피그마 시안 링크](https://www.figma.com/design/Vx9F8hszxUxcexVN0NTHNJ/%EC%95%84%ED%86%A0%EB%AF%B9-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EA%B3%BC%EC%A0%9C_%EC%A7%80%EC%9C%A0%EC%A7%84?node-id=0-1&t=kFQzrQChZkk0340v-1)
 
 ![](https://velog.velcdn.com/images/zidoopal/post/a2532c62-42e7-4f2c-b7ec-32abba139ca3/image.png)
 
@@ -38,4 +38,4 @@
 - 피그마도, vite를 사용한 환경 구성 부분도 너무 생소하고 어렵게 느껴져, vite 환경 구성 없이 배운 내용만 활용하여 과제를 하려했는데, pure CSS 를 import 하는 중 다음과 같은 오류가 계속 발생하여 모듈 번들러가 필요하다는 내용인 것 같아 결국 vite와 함께 과제를 수행하였습니다..🤔
   ![](https://velog.velcdn.com/images/zidoopal/post/9fb4b6ff-f5fe-4da5-ad54-9c6dfb34994a/image.png)
 - 복습을 게을리 했더니 벌써 여파가 큰 것 같습니다. 반성하고 지금부터라도 복습을 충실히 해야겠습니다
-- 과제 수행 중 시간이 부족하여 리드미 파일 작성 미완료 상태이나, 일단 upload 먼저 진행하였습니다...😥
+- 과제 수행 중 시간이 부족하여 리드미 파일 작성 미완료 상태이나, 일단 upload 먼저 진행하였습니다...😥 시간을 준수하여 과제를 진행하겠습니다.
