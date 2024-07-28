@@ -30,13 +30,12 @@
       ![](https://velog.velcdn.com/images/zidoopal/post/52207429-4cb3-4069-8bfa-5be851c212c6/image.png)<br>
 
 - **장바구니 모달 컴포넌트** 에 '버튼 컴포넌트' 추가(import)하기 <br>
-![image](https://github.com/user-attachments/assets/4b6cb410-6a55-49f3-b299-64c995adf588)<br>
-(시간 관계상 여백 등의 조정은 뒤로하고 업로드하였습니다 )
-
+  ![](https://velog.velcdn.com/images/zidoopal/post/e5aafa27-3d01-4bbf-9095-0782fd22da66/image.png)<br>
+  - 해당 모달에 stepper 컴포넌트도 들어가게되어 stepper도 리액트 컴포넌트로 변경해보았습니다.
 
 ### 회고
 
 - 피그마도, vite를 사용한 환경 구성 부분도 너무 생소하고 어렵게 느껴져, vite 환경 구성 없이 배운 내용만 활용하여 과제를 하려했는데, pure CSS 를 import 하는 중 다음과 같은 오류가 계속 발생하여 모듈 번들러가 필요하다는 내용인 것 같아 결국 vite와 함께 과제를 수행하였습니다..🤔
   ![](https://velog.velcdn.com/images/zidoopal/post/9fb4b6ff-f5fe-4da5-ad54-9c6dfb34994a/image.png)
-- 복습을 게을리 했더니 벌써 여파가 큰 것 같습니다. 반성하고 지금부터라도 복습을 충실히 해야겠습니다 😥
-- 과제 수행 중 시간이 부족하여 일단 upload 먼저 진행하였습니다...😥
+- 복습을 게을리 했더니 벌써 여파가 큰 것 같습니다. 반성하고 지금부터라도 복습을 충실히 해야겠습니다
+- 과제 수행 중 시간이 부족하여 리드미 파일 작성 미완료 상태이나, 일단 upload 먼저 진행하였습니다...😥
