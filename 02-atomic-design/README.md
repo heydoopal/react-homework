@@ -30,6 +30,9 @@
       ![](https://velog.velcdn.com/images/zidoopal/post/52207429-4cb3-4069-8bfa-5be851c212c6/image.png)
 
 - **장바구니 모달 컴포넌트** 에 '버튼 컴포넌트' 추가(import)하기
+![image](https://github.com/user-attachments/assets/4b6cb410-6a55-49f3-b299-64c995adf588)
+(시간 관계상 여백 등의 조정은 뒤로하고 업로드하였습니다 )
+
 
 ### 회고
 
