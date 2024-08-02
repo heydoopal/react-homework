@@ -1,4 +1,5 @@
-import CartModal from './components/cart-modal/CartModal';
+import CartModal from './components/molecules/cart-modal/CartModal';
+import './App.css'
 
 const product = {
   productName: '[풀무원] 탱탱쫄면 (4개입)',
