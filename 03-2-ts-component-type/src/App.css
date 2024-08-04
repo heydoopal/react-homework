@@ -1,0 +1,10 @@
+@import url('../src/styles/tailwind.css');
+
+@font-face {
+  font-family: 'Pretendard-Regular';
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://fastly.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff')
+    format('woff');
+}
