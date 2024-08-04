@@ -12,4 +12,4 @@
 
 ### 과제 03 | prop-types
 
-[🔍 240802 컴포넌트 속성 검사 및 테스트 과제페이지로 이동하기](https://github.com/heydoopal/react-homework/tree/main/03-prop-types)<br>
+[🔍 240804 컴포넌트 속성 검사 및 테스트 과제페이지로 이동하기](https://github.com/heydoopal/react-homework/tree/main/03-prop-types)<br>
