@@ -4,14 +4,12 @@
 
 ### 과제 01 | design-handoff
 
-[🎨 240722 디자인 → 개발 핸드오프 과제페이지 로 이동하기](01-design-handof/README.md)
-<br>
+[🎨 240722 디자인 → 개발 핸드오프 과제페이지 로 이동하기](https://github.com/heydoopal/react-homework/tree/main/01-design-handoff)<br>
 
 ### 과제 02 | atomic-design
 
-[🧩 240728 아토믹 컴포넌트 과제페이지 로 이동하기](02-atomic-design/README.md)<br>
-<br>
+[🧩 240728 아토믹 컴포넌트 과제페이지 로 이동하기](https://github.com/heydoopal/react-homework/tree/main/02-atomic-design)<br>
 
 ### 과제 03 | prop-types
 
-[🔍 240802 컴포넌트 속성 검사 및 테스트 과제페이지로 이동하기](03-prop-types/README.md)<br>
+[🔍 240802 컴포넌트 속성 검사 및 테스트 과제페이지로 이동하기](https://github.com/heydoopal/react-homework/tree/main/03-prop-types)<br>
