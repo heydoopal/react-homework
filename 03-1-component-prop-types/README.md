@@ -46,8 +46,9 @@
 
 <br>
 
-- 위 사항들 개선 이후, ts로도 바꿔보면 연습이 되고 좋을 것 같아 tsx 파일도 추가해보았습니다.
+- 위 사항들 개선 이후, ts로도 바꿔보면 연습이 되고 좋을 것 같아 tsx 파일도 추가해보았습니다. [JSX > TSX 페이지로 이동](https://github.com/heydoopal/react-homework/tree/main/03-prop-types)
 
 ### 회고
 
-- 내용
+- HTML/CSS 수업 이후로 바닐라 프로젝트 때도 pure CSS를 사용했고, 이후에도 Sass도, tailwindCSS도 공부하지 않아 기억이 많이 희미해졌습니다.. 하여 최종 프로젝트 때 많이 헤맬 것 같아 pureCSS로 작업했던 것을 tailwindCSS 바꿔보았습니다. Sass나 tailwind를 이런식으로 과제에서 많이 연습해보아야겠습니당.
+- 타입스크립트는 연습 겸 적용해 보았는데, 아직 어떻게 써야할지 모르겠습니다..😦 분명 쓰면 좋은 친구인 것은 알겠지만.. 앞으로 많이 친해져야겠어요.
