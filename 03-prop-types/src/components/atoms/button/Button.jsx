@@ -1,31 +1,30 @@
 import PropTypes from 'prop-types';
-import '../../App.css';
-import './Button.css';
 
 function Button({ style, size, text }) {
-  const buttonStyle = {
-    height: size === 'large' ? '3.375rem' : '2.75rem',
-    borderRadius: '0.25rem',
-    border: `1px solid var(--primary)`,
-    fontSize: '1rem',
-    fontWeight: 600,
-    fontFamily: 'inherit',
-    cursor: 'pointer',
-    backgroundColor: style === 'filled' ? 'var(--primary)' : 'transparent',
-    color: style === 'filled' ? 'var(--white)' : 'var(--primary)',
-  };
+  const styleClass =
+    style === 'filled'
+      ? 'bg-primary text-white'
+      : 'bg-transparent text-primary';
 
-  Button.propTypes = {
-    style: PropTypes.oneOf(['filled', 'outlined']),
-    size: PropTypes.oneOf(['large', 'small']),
-    text: PropTypes.string.isRequired,
-  };
+  const sizeClass = 
+    size === 'large' 
+      ? 'h-14' 
+      : 'h-11';
 
-  return (
-    <button type="button" style={buttonStyle}>
+      
+      return (
+        <button 
+          type="button" 
+          className={`rounded border border-primary text-base font-sans font-semibold cursor-pointer ${sizeClass} ${styleClass}`}
+    >
       {text}
     </button>
   );
 }
 
+Button.propTypes = {
+  style: PropTypes.oneOf(['filled', 'outlined']),
+  size: PropTypes.oneOf(['large', 'small']),
+  text: PropTypes.string.isRequired,
+};
 export default Button;

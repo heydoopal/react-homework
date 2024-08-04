@@ -1,5 +1,4 @@
 import PropTypes from 'prop-types';
-import './Stepper.css';
 
 const Stepper = ({ quantity, onQuantityChange }) => {
   const handleIncrease = () => {
@@ -15,9 +14,9 @@ const Stepper = ({ quantity, onQuantityChange }) => {
   };
 
   return (
-    <div className="stepper">
+    <div className="stepper-button">
       <button
-        className="stepper__button--minus"
+        className="stepper-button-minus"
         type="button"
         aria-label="수량 내리기"
         onClick={handleDecrease}
@@ -25,7 +24,7 @@ const Stepper = ({ quantity, onQuantityChange }) => {
       ></button>
       <span>{quantity}</span>
       <button
-        className="stepper__button--plus"
+        className="stepper-button-plus"
         type="button"
         aria-label="수량 올리기"
         onClick={handleIncrease}

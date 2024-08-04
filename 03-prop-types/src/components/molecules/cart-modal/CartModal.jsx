@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 import { useState } from 'react';
 import Button from '../../atoms/button/Button';
 import Stepper from '../../atoms/stepper/Stepper';
-import './CartModal.css';
+import '../../../styles/tailwind.css';
 
 const CartModal = ({ product }) => {
   const [quantity, setQuantity] = useState(1);
