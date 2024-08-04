@@ -24,6 +24,7 @@
 
 - 기존 아토믹 컴포넌트 과제에서 prop-types를 이용하여 속성검사를 했었기에,
   강사님의 피드백에 대한 개선 및 기존 pureCSS 스타일링 > tailwindCSS로 바꿔보는 작업을 진행하였습니다.
+- 위 사항들 개선 이후, ts로도 바꿔보면 연습이 되고 좋을 것 같아 tsx 파일도 추가해보았습니다. [JSX > TSX 페이지로 이동](https://github.com/heydoopal/react-homework/tree/main/03-prop-types)
 
 #### 개선 사항
 
@@ -45,8 +46,6 @@
 ![](https://velog.velcdn.com/images/zidoopal/post/7b5969eb-9cd6-4f20-a974-6821b53d36df/image.png)
 
 <br>
-
-- 위 사항들 개선 이후, ts로도 바꿔보면 연습이 되고 좋을 것 같아 tsx 파일도 추가해보았습니다. [JSX > TSX 페이지로 이동](https://github.com/heydoopal/react-homework/tree/main/03-prop-types)
 
 ### 회고
 
