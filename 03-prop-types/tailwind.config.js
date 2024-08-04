@@ -22,7 +22,7 @@ export default {
         ],
       },
       colors: {
-        primary: '#e23e57',
+        primary: '#D83A58',
         content: '#333333',
         black: '#000000',
         white: '#ffffff',
@@ -34,14 +34,14 @@ export default {
         'gray-500': '#6b6b6b',
       },
       borderRadius: {
-        'md': '3px',
+        md: '3px',
       },
       width: {
-        '7.5': '30px',
-        '21': '84px', 
+        7.5: '30px',
+        21: '84px',
       },
       height: {
-        '7.5': '30px',
+        7.5: '30px',
       },
     },
   },
