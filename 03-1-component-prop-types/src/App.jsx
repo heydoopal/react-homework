@@ -1,4 +1,4 @@
-import CartModal from './components/molecules/cart-modal/CartModal';
+import { CartModal } from './components/index';
 import './App.css';
 
 const product = {
